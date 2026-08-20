@@ -6,7 +6,7 @@ import {
   Sparkles, WandSparkles, X
 } from 'lucide-react'
 
-const WHATSAPP_NUMBER = '212600000000'
+const WHATSAPP_NUMBER = '212617453413'
 
 const products = [
   { id: 1, name: 'Éclat Pistache', category: 'Entremets', price: 320, desc: 'Pistache, framboise et fleur d’oranger', tag: 'Signature', image: 'https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=1200&q=85' },
