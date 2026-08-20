@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; background: #FBF7F2; }
+button, a { -webkit-tap-highlight-color: transparent; }
+::-webkit-scrollbar { width: 10px; height: 8px; }
+::-webkit-scrollbar-track { background: #f4ece5; }
+::-webkit-scrollbar-thumb { background: #b8988c; border-radius: 999px; }
